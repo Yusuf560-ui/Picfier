@@ -16,28 +16,30 @@ An image color simplifier that uses KMeans clustering to reduce the number of co
 - Scikit learn
 
 ## How to run Locally
-- Clone repository : 
- ``` bash 
-    git clone 
+- Clone repository :  
+   ``` bash 
+       git clone
+   ```
+
 - Open folder
- ``` bash
-cd Picfier
-```
+  ``` bash
+      cd Picfier
+  ```
 
 - Create and activate virtual environment: 
-```bash
-python -m venv .venv
-```
-```bash
-.venv\Scripts\activate   # On Windows
-source .venv/bin/activate # On Mac/Linux
-```
+  ```bash
+     python -m venv .venv
+  ```
+  ```bash
+  .venv\Scripts\activate   # On Windows
+  source .venv/bin/activate # On Mac/Linux
+  ```
 
 - Install dependencies
-```bash
-pip install -r requirement.txt
-
-```
+  ```bash
+  pip install -r requirement.txt
+  ```
+  
 - Run the streamlit app
   ```bash
       streamlit run app.py
