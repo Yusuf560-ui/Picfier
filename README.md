@@ -42,5 +42,5 @@ An image color simplifier that uses KMeans clustering to reduce the number of co
   
 - Run the streamlit app
   ```bash
-      streamlit run app.py
+  streamlit run app.py
   ```
