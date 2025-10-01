@@ -31,16 +31,16 @@ An image color simplifier that uses KMeans clustering to reduce the number of co
      python -m venv .venv
   ```
   ```bash
-  .venv\Scripts\activate   # On Windows
-  source .venv/bin/activate # On Mac/Linux
+     .venv\Scripts\activate   # On Windows
+     source .venv/bin/activate # On Mac/Linux
   ```
 
 - Install dependencies
   ```bash
-  pip install -r requirement.txt
+     pip install -r requirement.txt
   ```
   
 - Run the streamlit app
   ```bash
-  streamlit run app.py
+     streamlit run app.py
   ```
