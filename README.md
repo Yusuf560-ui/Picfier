@@ -2,7 +2,7 @@
 An image color simplifier that uses KMeans clustering to reduce the number of colors in an image based on user's selection without losing much visual quality  for simplified display purposes. 
 However, it works best with Ghibli styled images and cartoons
 
-**Available on Streamlit [Streamlit](https://picfier.streamlit.app/)**
+**Available on Streamlit [Picfier](https://picfier.streamlit.app/)**
 ## Project Workflow
 - User uploads an image
 - Image is converted to an array
